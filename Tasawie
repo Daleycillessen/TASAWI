@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract SHAQLAWA {
+    string public name = "SHQLW";
+    string public symbol = "SHQL";
+    uint256 public totalSupply = 30000000; // 30 million tokens
